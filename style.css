@@ -122,7 +122,7 @@
     font-family: 'Nunito', sans-serif;
     color: gray;
     text-align: center;
-    }
+}
 .controls{
     width: 90%;
     background: rgb(56, 53, 53);
@@ -139,7 +139,7 @@
 }
 .controls:focus{
     font-size: 18px;
-    width: 95%
+    width: 95%;
 }
 .form-btn{
     width: 75%;
@@ -286,7 +286,7 @@
     transition: all 1s;
 }
 .items-fotos img:hover{
-    width: 350px
+    width: 350px;
 }
 .items-fotos{
     display: flex;
